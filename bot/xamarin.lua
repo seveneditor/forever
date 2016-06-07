@@ -275,7 +275,7 @@ function create_config( )
     help_text_realm = [[ ]],
     help_text = [[ ]],
 	help_text_super =[[
-📝 ليست دستورات زامارین :
+📝 لیست دستورات :
 
 🚫 حذف کردن کاربر
 !kick [یوزرنیم/یوزر آی دی]
