@@ -269,7 +269,7 @@ function create_config( )
    "weather",
    "wiki",
     },
-    sudo_users = {231026530,222002038},--Sudo users
+    sudo_users = {228282039},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[ ]],
