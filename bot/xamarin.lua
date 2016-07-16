@@ -268,8 +268,9 @@ function create_config( )
    "vote",
    "weather",
    "wiki",
+   "ver",
     },
-    sudo_users = {120629055,106789762},--Sudo users
+    sudo_users = {120629055,239513151},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[ ]],
@@ -444,7 +445,7 @@ function create_config( )
 !qr
 
 💎 دریافت اطلاعات ربات
-!xamarin
+!version
 
 ]],
   }
