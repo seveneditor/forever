@@ -233,7 +233,6 @@ function create_config( )
    "get",
    "gif",
    "github",
-   "google",
    "gps",
    "joke",
    "inpm",
