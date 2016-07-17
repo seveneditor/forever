@@ -11,8 +11,8 @@ A new bot for manage your Supergroups.
 -----------------------------------
 Bot number : +989137727210
 -----------------------------------
-Bot version : 2.7 ]]
-https://telegram.me/KINGBOT_TG
+Bot version : 2.7 
+https://telegram.me/KINGBOT_TG]]
 end
 
 return {
