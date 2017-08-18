@@ -269,7 +269,7 @@ function create_config( )
    "wiki",
    "ver",
     },
-    sudo_users = {120629055,239513151},--Sudo users
+    sudo_users = {212281884},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[ ]],
